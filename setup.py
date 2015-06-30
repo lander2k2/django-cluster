@@ -8,6 +8,7 @@ setup(name='django-microservices',
       author_email='lander2k2@gmail.com',
       license='MIT',
       packages=find_packages(),
+      include_package_data=True,
       install_requires=['django'],
       zip_safe=False)
 
