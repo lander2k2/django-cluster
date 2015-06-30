@@ -1,0 +1,2 @@
+recursive-include microservices/static *
+recursive-include microservices/templates *
